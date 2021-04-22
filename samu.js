@@ -102,7 +102,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + 'FN:-·👑Samu330🏆·-\n'
 + 'ORG:🐬NyanBot;\n'
-+ 'TEL;type=CELL;type=VOICE;waid=5219984907794:+521 9984 907794\n' 
++ 'TEL;type=CELL;type=VOICE;waid=51917473908:+51 917 473 908\n' 
 + 'END:VCARD' 
 
 
@@ -630,7 +630,7 @@ case '?':
   if (!isRegister) return reply(mess.only.daftarB)
   uptime = process.uptime()
 const Menu = {
-text: `👑Samu330🏆
+text: `👑➴ꪾꦿ᭄፝ᵗᶤᶰᵏᶤˡᵛᵉʳ᭄ᶜᵃᵐᵖᵃᶰᶤᵗA🌹🏆
 🔐Hola *${pushname}* 
 
 ${samu}❑ Prefijo:${samu}「 ${prefix} 」
@@ -639,7 +639,7 @@ ${samu}❑ Modo:${samu} *ON*
 ${samu}❑ Grupo:${samu} *${groupName}*
 ${samu}❑ Número de grupos:${samu} *${_registered.length}*
 ${samu}❑ Número de chats:${samu} *${totalchat.length}*
-${samu}❑ Numero del Dueño wa.me/+529984907794${samu}
+${samu}❑ Numero del Dueño wa.me/+51917473908${samu}
 
 ⍣ *BOT INFO* ⍣
 ${samu}◦ 🔋 nivel de bateria :${samu}
@@ -650,8 +650,7 @@ ${samu}◦ 🚄Velocidad :${samu} *${process.uptime()}*
 ${samu}◦ 📲Sistema operativo :${samu} *${samu330.user.phone.device_manufacturer}*
 ${samu}◦ 🪀version de${samu} *WhatsApp* : *${samu330.user.phone.wa_version}*
 
-_LOS COMANDOS QUE APARECEN A CONTINUACION NO SON TODOS LOS COMANDOS DEL BOT, ASI QUE ESPERA A QUE CREE UN BUEN MENU:D_
-
+_LOS COMANDOS QUE APARECEN A CONTINUACION NO SON TODOS LOS COMANDOS DEL BOT, ASI QUE ESPERA A QUE CREE UN BUEN MENU:D
 ╓╴*COMADOS DE STICKERS*
 ${bodyM}
 ${bodyM} ${prefix}sticker (Imagen, video o gif)
